@@ -28,8 +28,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=p4blo-oliveir4&show_icons=true&locale=en" alt="p4blo-oliveir4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p4blo-oliveir4&theme=dark" alt="p4blo-oliveir4" /></p>
 
-<img src="https://raw.githubusercontent.com/p4blo-oliveir4/p4blo-oliveir4/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/p4blo-oliveir4/p4blo-oliveir4/output/snake.svg" alt="Snake animation" />
 
 ###
