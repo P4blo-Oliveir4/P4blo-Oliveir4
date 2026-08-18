@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=p4blo-oliveir4&label=Profile%20views&color=0062f5&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I am currently working at **Proxxy Tech**
 
 - 🎓 Postgraduate degree in **Software Engineering**
 
